@@ -2,7 +2,7 @@
 <ul>
     <li>🧑🏿‍💻Atualmente, sou estudante de Informática no <b>Colégio Nossa Senhora da Anunciação</b></li>
     <li>💓Sou Viciado em Programação desde <b>2021</b></li>
-    <li>Você pope entrar em contacto comigo no <a style="color: rgb(69, 69, 228)" href="https://www.instagram.com/n.makeny/"><b>Instagram</b></a>,<a style="color: rgb(69, 69, 228)" href="https://www.facebook.com/N.Makeny" target="_blank"><b>Facebook </b></a> ou <a style="color: rgb(69, 69, 228)" href="mailto:cmp.1a.makeneto17@gmailcom" target="_blank"><b>GMAIL</b></a>🤝🏾</li>
+    <li>Você pode entrar em contacto comigo no <a style="color: rgb(69, 69, 228)" href="https://www.instagram.com/n.makeny/"><b>Instagram</b></a>,<a style="color: rgb(69, 69, 228)" href="https://www.facebook.com/N.Makeny" target="_blank"><b>Facebook </b></a> ou <a style="color: rgb(69, 69, 228)" href="mailto:cmp.1a.makeneto17@gmailcom" target="_blank"><b>GMAIL</b></a>🤝🏾</li>
     <li> Óbvio sou eu🙈</li>
 </ul>
 
