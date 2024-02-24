@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Arial%22%2C+sans-serif;&weight=500&size=30&duration=3000&pause=1000&color=ffffff&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Hi,👋🏿my+name's+Makene+Neto;I'm+19+years+old🔞;I'm+from+Angola👣;I'm+majoring+in+web+deve👨🏾‍💻;Welcome❤️‍🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Arial%22%2C+sans-serif;&weight=500&size=30&duration=3000&pause=1000&color=ffffff&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Hi,👋🏿my+name's+Makene+Neto;I'm+19+years+old🔞;I'm+from+Angola👣;I'm+majoring+in+web+dev👨🏾‍💻;Welcome❤️‍🔥)](https://git.io/typing-svg)
 <ul>
     <li>🧑🏿‍💻Atualmente, sou estudante de Informática no <b>Colégio Nossa Senhora da Anunciação</b></li>
     <li>💓Sou Viciado em Programação desde <b>2021</b></li>
