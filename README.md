@@ -13,8 +13,8 @@
 <div align="center" style="display: inline_block; margin: 40px 0px;">
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img width="100%" src="https://skillicons.dev/icons?i=windows,c,cpp,cs,java,py,html,css,sass,js,react,redux,styledcomponents,supabase" />
+  <a>
+    <img width="80%" src="https://skillicons.dev/icons?i=windows,c,cpp,cs,java,py,html,css,sass,js,react,redux,styledcomponents,supabase" />
   </a>
 </p>
 
