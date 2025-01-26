@@ -14,7 +14,7 @@
 
 <p align="center">
   <a>
-    <img width="80%" src="https://skillicons.dev/icons?i=windows,c,cpp,cs,java,py,html,css,sass,js,react,redux,styledcomponents,supabase,nextjs" />
+    <img width="80%" src="https://skillicons.dev/icons?i=windows,c,cpp,cs,java,py,html,css,sass,js,styledcomponents,tailwindcss,react,redux,supabase,nextjs" />
   </a>
 </p>
 
