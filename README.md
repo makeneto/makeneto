@@ -4,7 +4,7 @@
     <li>🛠️ I constantly work to improve my skills as a <b>Full-Stack Developer</b>.</li>
     <li>🔍 Always looking for new challenges to expand my knowledge</li>
     <li>🌍 I dream of contributing to big projects that have a global impact.</li>
-    <li>🌐 You can contact me on <a style="color: rgb(69, 69, 228)" href="https://www.instagram.com/n.makeny/"><b>Instagram</b></a> or <a style="color: rgb(69, 69, 228)" href="mailto:cmp.1a.makeneto17@gmailcom" target="_blank"><b>GMAIL</b></a>🤝🏾</li>
+    <li>🌐 You can contact me on <a style="color: rgb(69, 69, 228)" href="https://https://www.instagram.com/makene.dev"><b>Instagram</b></a> or <a style="color: rgb(69, 69, 228)" href="mailto:cmp.1a.makeneto17@gmailcom" target="_blank"><b>GMAIL</b></a>🤝🏾</li>
     <li>🦖 And... Obviously, it's me🙈</li>
 </ul>
 
