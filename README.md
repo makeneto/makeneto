@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Arial%22%2C+sans-serif;&weight=500&size=30&duration=3000&pause=1000&color=ffffff&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Hi,👋🏿my+name's+Makene+Neto;I'm+20+years+old🔞;I'm+from+Angola👣;I'm+majoring+in+web+dev👨🏾‍💻;Welcome❤️‍🔥)](https://git.io/typing-svg)
 <ul>
-    <li>💓 I've been addicted to programming since <b>2021</b></li>
+    <li>💓 I've been addicted to programming since <b>2020</b></li>
     <li>🛠️ I constantly work to improve my skills as a <b>Full-Stack Developer</b>.</li>
     <li>🔍 Always looking for new challenges to expand my knowledge</li>
     <li>🌍 I dream of contributing to big projects that have a global impact.</li>
