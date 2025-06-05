@@ -1,16 +1,16 @@
 <h1 align="left">Hi 👋🏾, my name is Makene Neto!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nublson&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/nublson/nublson/blob/dev/animation_500_kv8i962g.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nublson&color=blueviolet" alt="Profile views" /> </p>
 
-- 💓 I've been addicted to programming since **2021**
+-   💓 I've been addicted to programming since **2021**
 
-- 🛠️ I constantly work to improve my skills as a **Front End Developer**.
+-   🛠️ I constantly work to improve my skills as a **Front End Developer**.
 
-- 🔍 Always looking for new challenges to expand my knowledge.
+-   🔍 Always looking for new challenges to expand my knowledge.
 
-- 🌍 I dream of contributing to big projects that have a global impact.
+-   🌍 I dream of contributing to big projects that have a global impact.
 
-- 🦖 And... Obviously, it's me🙈
+-   🦖 And... Obviously, it's me🙈
 
 <br>
 
