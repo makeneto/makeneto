@@ -1,31 +1,53 @@
-# Hi 👋, my name's Makene Neto
+# Hi 👋🏾, my name's Makene Neto
 
-<ul>
-    <li>💓 I've been addicted to programming since <b>2021</b></li>
-    <li>🛠️ I constantly work to improve my skills as a <b>Full-Stack Developer</b>.</li>
-    <li>🔍 Always looking for new challenges to expand my knowledge</li>
-    <li>🌍 I dream of contributing to big projects that have a global impact.</li>
-    <li>🌐 You can contact me on <a style="color: rgb(69, 69, 228)" href="https://www.instagram.com/makenedev"><b>Instagram</b></a> or <a style="color: rgb(69, 69, 228)" href="mailto:cmp.1a.makeneto17@gmailcom" target="_blank"><b>GMAIL</b></a>🤝🏾</li>
-    <li>🦖 And... Obviously, it's me🙈</li>
-</ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nublson&color=blueviolet" alt="Profile views" /> </p>
+<img align="right" width="300em" height="300em" src="https://github.com/nublson/nublson/blob/dev/animation_500_kv8i962g.gif"/>
+
+-   💓 I've been addicted to programming since **2021**
+
+-   🛠️ I constantly work to improve my skills as a **Front End Developer**.
+
+-   🔍 Always looking for new challenges to expand my knowledge.
+
+-   🌍 I dream of contributing to big projects that have a global impact.
+
+-   🦖 And... Obviously, it's me🙈
 
 ## 🛠️Technology Stack
 
 <div align="center" style="display: inline_block; margin: 40px 0px;">
 
-<p align="center">
-  <a>
-    <img width="80%" src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,sass,js,react,ts,redux,nextjs,styledcomponents,tailwindcss,supabase" />
-  </a>
-</p>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss&logoColor=1572B6)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=1572B6)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
+
+<!-- ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp; -->
+
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=ba8fff)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=Supabase)&nbsp;
 
 </div>
 
 ## ⚙️Github Analysis
+
 <div align="center">
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=makeneto&show_icons=true&count_private=true&hide_border=true&title_color=949494&text_color=ffffff&bg_color=000000" alt="Makene Neto github Status"/>
-        <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeneto&layout=compact&hide_border=true&title_color=949494&text_color=949494&bg&bg_color=000000"/>
+        <img width="530em" src="https://github-readme-stats.vercel.app/api?username=makeneto&show_icons=true&count_private=true&hide_border=true&title_color=949494&text_color=ffffff&bg_color=000000" alt="Makene Neto github Status"/>
 </div>
 
-## 📊Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=makeneto&bg_color=000000&color=ffffff&line=ffffff&point=949494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+<p align="center">
+  <a href="https://instagram.com/makenedev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-makenedev-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="mailto:cmp.1a.makeneto17@gmailcom" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-GMAIL-05122A?style=flat&logo=gmail" alt="GMAIL"/>
+</a>
+</p>
