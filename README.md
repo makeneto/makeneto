@@ -1,21 +1,22 @@
-# Hi 👋🏾, my name's Makene Neto
-
+<h1 align="left">Hi 👋🏾, my name is Makene Neto!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nublson&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/nublson/nublson/blob/dev/animation_500_kv8i962g.gif"/>
 
--   💓 I've been addicted to programming since **2021**
+- 💓 I've been addicted to programming since **2021**
 
--   🛠️ I constantly work to improve my skills as a **Front End Developer**.
+- 🛠️ I constantly work to improve my skills as a **Front End Developer**.
 
--   🔍 Always looking for new challenges to expand my knowledge.
+- 🔍 Always looking for new challenges to expand my knowledge.
 
--   🌍 I dream of contributing to big projects that have a global impact.
+- 🌍 I dream of contributing to big projects that have a global impact.
 
--   🦖 And... Obviously, it's me🙈
+- 🦖 And... Obviously, it's me🙈
+
+<br>
 
 ## 🛠️Technology Stack
 
-<div align="center" style="display: inline_block; margin: 40px 0px;">
+<br>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -33,15 +34,21 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=ba8fff)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=Supabase)&nbsp;
 
-</div>
+<br>
 
 ## ⚙️Github Analysis
 
-<div align="center">
-        <img width="530em" src="https://github-readme-stats.vercel.app/api?username=makeneto&show_icons=true&count_private=true&hide_border=true&title_color=949494&text_color=ffffff&bg_color=000000" alt="Makene Neto github Status"/>
-</div>
+<br>
 
-<br/>
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=nublson&show_icons=true&theme=nightowl" alt="nublson's stats"/>
+</p>
+
+<br>
+
+---
+
+<br>
 
 <p align="center">
   <a href="https://instagram.com/makenedev" target="_blank">
