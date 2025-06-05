@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=nublson&show_icons=true&theme=nightowl" alt="nublson's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=makeneto&show_icons=true&theme=nightowl" alt="makenedev's stats"/>
 </p>
 
 <br>
