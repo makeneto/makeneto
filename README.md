@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋🏾, my name is Makene Neto!</h1>
 <img align="right" width="300em" height="300em" src="https://github.com/nublson/nublson/blob/dev/animation_500_kv8i962g.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nublson&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=makeneto&color=blue" alt="Profile views" /> </p>
 
 -   💓 I've been addicted to programming since **2021**
 
