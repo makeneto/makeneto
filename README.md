@@ -4,13 +4,13 @@
 
 -   💓 I've been addicted to programming since **2021**
 
--   🛠️ I constantly work to improve my skills as a **Front End Developer**.
+-   🛠️ I constantly work to improve my skills as a **Full-stack Developer**.
 
 -   🔍 Always looking for new challenges to expand my knowledge.
 
 -   🌍 I dream of contributing to big projects that have a global impact.
 
--   🦖 And... Obviously, it's me🙈
+-   🦖 And... Obviously, it's me ⛅☕
 
 <br>
 
