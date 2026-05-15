@@ -36,18 +36,6 @@
 ![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=claude)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 
-<br>
-
-## ⚙️Github Analysis
-
-<br>
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=makeneto&show_icons=true&theme=nightowl" alt="makenedev's stats"/>
-</p>
-
-<br>
-
 ---
 
 <br>
