@@ -4,7 +4,7 @@
 
 -   💓 I've been addicted to programming since **2021**
 
--   🛠️ I constantly work to improve my skills as a **Full-stack Developer**.
+-   🛠️ I constantly work to improve my skills as a **Front-end Developer**.
 
 -   🔍 Always looking for new challenges to expand my knowledge.
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://instagram.com/makeneto" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-makenedev-05122A?style=flat&logo=instagram" alt="Instagram"/>
+    <img align="center" src="https://img.shields.io/badge/-@makenedev-05122A?style=flat&logo=instagram" alt="Instagram"/>
   </a>
   |
   <a href="mailto:makenedev@gmail.com" target="_blank">
