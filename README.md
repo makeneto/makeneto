@@ -3,7 +3,7 @@
 
 - 💼 I’m currently looking for a job.
   
-- 🚀 Continuously improving my expertise as a **Web Developer**.
+- 🚀 I work width **Web Development**.
   
 - 🔍 Always seeking new challenges and opportunities to expand my knowledge.
 
