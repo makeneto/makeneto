@@ -17,13 +17,12 @@
 
 <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss)&nbsp;
 ![(S)CSS](https://img.shields.io/badge/-(S)CSS-05122A?style=flat&logo=SASS)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
+![Shadcn-ui](https://img.shields.io/badge/-Shadcn-ui-05122A?style=flat&logo=shadcnui)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
